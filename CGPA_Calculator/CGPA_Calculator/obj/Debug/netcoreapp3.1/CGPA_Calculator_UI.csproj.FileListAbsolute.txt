@@ -1,0 +1,14 @@
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\bin\Debug\netcoreapp3.1\CGPA_Calculator_UI.exe
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\bin\Debug\netcoreapp3.1\CGPA_Calculator_UI.deps.json
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\bin\Debug\netcoreapp3.1\CGPA_Calculator_UI.runtimeconfig.json
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\bin\Debug\netcoreapp3.1\CGPA_Calculator_UI.runtimeconfig.dev.json
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\bin\Debug\netcoreapp3.1\CGPA_Calculator_UI.dll
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\bin\Debug\netcoreapp3.1\CGPA_Calculator_UI.pdb
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\obj\Debug\netcoreapp3.1\CGPA_Calculator_UI.csproj.AssemblyReference.cache
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\obj\Debug\netcoreapp3.1\CGPA_Calculator_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\obj\Debug\netcoreapp3.1\CGPA_Calculator_UI.AssemblyInfoInputs.cache
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\obj\Debug\netcoreapp3.1\CGPA_Calculator_UI.AssemblyInfo.cs
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\obj\Debug\netcoreapp3.1\CGPA_Calculator_UI.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\obj\Debug\netcoreapp3.1\CGPA_Calculator_UI.dll
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\obj\Debug\netcoreapp3.1\CGPA_Calculator_UI.pdb
+C:\Users\emmanuel.o\Documents\C#\CGPA_Calculator\CGPA_Calculator\obj\Debug\netcoreapp3.1\CGPA_Calculator_UI.genruntimeconfig.cache

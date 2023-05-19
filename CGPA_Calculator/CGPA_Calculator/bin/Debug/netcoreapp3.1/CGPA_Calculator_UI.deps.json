@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CGPA_Calculator_UI/1.0.0": {
+        "runtime": {
+          "CGPA_Calculator_UI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CGPA_Calculator_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
